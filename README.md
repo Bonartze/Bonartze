@@ -9,6 +9,6 @@
 -  I have B1 English level so I can read documentation as original one without a doubt
 
 ### Languages and tools I use:
-<img src = <i class="devicon-c-plain"></i>, title="C++" width="40" height="40/>&hbsp"
-          
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+                    
           
