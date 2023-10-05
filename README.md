@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Thats my Git with some projects in repository, check it out, please! ✨👊
 
 <!--
 **Bonartze/Bonartze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
