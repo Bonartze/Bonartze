@@ -8,5 +8,7 @@
 -  My CV and profile on Headhunter: https://hh.ru/resume/69066d5cff0c289c0c0039ed1f50426b705662
 -  I have B1 English level so I can read documentation as original one without a doubt
 -  My learnt stack: 
-            <i class="devicon-c-plain"></i>
+  
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
           
