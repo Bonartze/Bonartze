@@ -9,6 +9,6 @@
 -  I have B1 English level so I can read documentation as original one without a doubt
 
 ### Languages and tools I use:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://ip-calculator.ru/blog/wp-content/uploads/2021/02/6038586442907648.png" title="C++" width="40" height="40"/>&nbsp;
                     
           
