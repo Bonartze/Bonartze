@@ -6,13 +6,13 @@
 </a> </div>
 
 ### About me
--  Best projects in this Git are TransportCatalogue and DataService, check it out
+-  Best projects in this Git are TransportCatalogue and DataService, check it out.
 -  I am studying at MAI university as a 3rd-year student.
--  Now really actively revise C++ and all its componets (CMake, GDB, QT, MPI, STL, multithreading and so forth)
--  For work and strudy I use jetbrains packs particulary CLion, PyCharm and DataGrid 
--  My CV and profile at Headhunter: https://hh.ru/resume/69066d5cff0c289c0c0039ed1f50426b705662
--  I have B1 English level so I can read documentation as original one without a doubt
--  Now I'm very active learning CMakeLists
+-  Now really actively revise C++ and all its componets (CMake, GDB, QT, MPI, STL, multithreading and so forth).
+-  For work and strudy I use jetbrains packs particulary CLion, PyCharm and PyCharm. 
+-  My CV and profile at Headhunter: https://hh.ru/resume/69066d5cff0c289c0c0039ed1f50426b705662.
+-  I have B1 English level so I can read documentation as original one without a doubt.
+-  Now I'm very active learning CMakeLists.
 -  Also I know C, Python and Linux (Ubuntu 22.04) at the level of user active user.
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
@@ -29,4 +29,3 @@ title="Linux" width="40" height="40"/>&nbsp;
 title="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"
 title="Cmake" width="40" height="40"/>&nbsp;
-
