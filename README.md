@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the- badge&logo-telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
-
 ### About me
 -  I am studying at MAI university as a 3rd-year student.
 -  Now really actively revise C++ and all its componets (CMake, GDB, QT, MPI, STL, multithreading and so forth)
