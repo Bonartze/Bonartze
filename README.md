@@ -11,8 +11,10 @@
 -  Also I know C, Python and Linux (Ubuntu 22.04) at the level of user active user.
   ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
-title="C++" width="40" height="40"/>&nbsp;
+title="C" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
 title="C++" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
-title="C++" width="40" height="40"/>&nbsp;
+title="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
+title="Ubuntu" width="40" height="40"/>&nbsp;
