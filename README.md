@@ -10,6 +10,6 @@
 -  Now I'm very active learning CMakeLists
 -  Also I know C, Python and Linux (Ubuntu 22.04) at the level of user active user.
   ### Languages and tools
-  <img src="<i class="devicon-adonisjs-original"></i>"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"
   title="C++" width="40" height="40"/>&nbsp;
 
