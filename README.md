@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Ivan 👋
 ### That's my Git with some projects in repositories, check it out, please! ✨👊
 
 ### About me
