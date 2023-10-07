@@ -20,4 +20,6 @@ title="Python" width="40" height="40"/>&nbsp;
 title="Ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
 title="Ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
+title="Ubuntu" width="40" height="40"/>&nbsp;
 
