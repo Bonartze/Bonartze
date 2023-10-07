@@ -12,4 +12,6 @@
   ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
 title="C++" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+title="C++" width="40" height="40"/>&nbsp;
           
