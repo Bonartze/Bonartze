@@ -10,5 +10,5 @@
 -  Now I'm very active learning CMakeLists
 -  Also I know C, Python and Linux (Ubuntu 22.04) at the level of user active user.
 -  ### Languages and tools
--  <img src="[i class="devicon-aftereffects-plain"></i>](https://fossa.com/blog/content/images/size/w600h300/2022/03/CC--.png)https://fossa.com/blog/content/images/size/w600h300/2022/03/CC--.png"
+  <img src="[i class="devicon-aftereffects-plain"></i>](https://fossa.com/blog/content/images/size/w600h300/2022/03/CC--.png)https://fossa.com/blog/content/images/size/w600h300/2022/03/CC--.png"
    title="C++" width="40" height"40"/>
