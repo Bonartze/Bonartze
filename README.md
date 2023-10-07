@@ -10,5 +10,5 @@
 -  Now I'm very active learning CMakeLists
 -  Also I know C, Python and Linux (Ubuntu 22.04) at the level of user active user.
   ### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
           
