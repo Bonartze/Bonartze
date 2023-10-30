@@ -11,7 +11,7 @@
 -  Now really actively revise C++ and all its componets (CMake, GDB, QT, MPI, STL, multithreading and so forth).
 -  For work and strudy I use jetbrains packs particulary CLion, PyCharm. 
 -  My  <a href="https://hh.ru/resume/69066d5cff0c289c0c0039ed1f50426b705662">CV and profile at Headhunter.
--  I have B1 English level so I can read documentation as original one without a doubt.
+-  I have B2 English level so I can read documentation as original one without a doubt.
 -  Now I'm very actively learning CMakeLists.
 -  Also I know C, Python and Linux (Ubuntu 22.04) at the level of user active user.
 -  My active stack - C++/C, CMake, Linux, but if it's necessary I'm opened up for new studyings.
