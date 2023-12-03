@@ -6,7 +6,7 @@
 </a> </div>
 
 ### About me
--  Best projects in this Git are <a href="https://github.com/Bonartze/TransportCatalogue"> TransportCatalogue</a> and <a href="https://github.com/Bonartze/DataService">DataService </a>, check it out.
+-  Best projects in this Git are <a href="https://github.com/Bonartze/TransportCatalogue"> TransportCatalogue</a> and <a href="https://github.com/Bonartze/CurrencyDataBase">CurrencyDataBase </a>, check it out.
 -  I am studying at MAI university as a 3rd-year student.
 -  Now really actively revise C++ and all its componets (CMake, GDB, QT, MPI, STL, multithreading and so forth).
 -  For work and strudy I use jetbrains packs particulary CLion, PyCharm. 
