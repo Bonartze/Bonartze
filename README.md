@@ -13,7 +13,7 @@
 -  My  <a href="https://hh.ru/resume/69066d5cff0c289c0c0039ed1f50426b705662">CV and profile at Headhunter.
 -  I have B2 English level so I can read documentation as original one without a doubt.
 -  Now I'm very actively learning CMakeLists.
--  Also I know C, Python and Linux (Ubuntu 22.04) at the level of user active user.
+-  Also I know C, Python and Linux (Ubuntu 22.04) at the level of active user.
 -  My active stack - C++/C, CMake, Linux, but if it's necessary I'm opened up for new studyings.
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
