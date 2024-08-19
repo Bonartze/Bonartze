@@ -1,38 +1,29 @@
-### Hi there, I am Ivan 
-### That's my Git with some projects in repositories, check it out, please! 
-<div id="socials" align="left">
-<a href="https://t.me/ikirilin">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the- badge&logo-telegram&logoColor=white" alt="Telegram"/>
-</a> </div>
+<h1 align="center">Hello I am Ivan</h1>
+<h3 align="center">Passionate C++ Developer | Specializing in Backend Systems & Algorithm Optimization</h3>
 
-### About me
--  Best projects in this Git are <a href="https://github.com/Bonartze/TransportCatalogue"> TransportCatalogue</a> and <a href="https://github.com/Bonartze/CurrencyDataBase">CurrencyDataBase </a>, check it out.
--  I am studying at MAI university as a 3rd-year student.
--  Now really actively revise C++ and all its componets (CMake, GDB, QT, MPI, STL, multithreading and so forth).
--  For work and strudy I use jetbrains packs particulary CLion, PyCharm. 
--  My  <a href="https://hh.ru/resume/69066d5cff0c289c0c0039ed1f50426b705662">CV and profile at Headhunter.
--  I have B2 English level so I can read documentation as original one without a doubt.
--  Now I'm very actively learning CMakeLists.
--  Also I know C, Python and Linux (Ubuntu 22.04) at the level of active user.
--  My active stack - C++/C, CMake, Linux, but if it's necessary I'm opened up for new studyings.
-### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"
-title="C" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-title="C++" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
-title="Python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-title="Ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-title="Linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
-title="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"
-title="Cmake" width="40" height="40"/>&nbsp;
-### My statistics
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bonartze&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bonartze&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bonartze&theme=github_dark" alt=""/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bonartze&label=Profile%20views&color=0e75b6&style=flat" alt="bonartze" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonartze" alt="bonartze" /></a> </p>
+
+- 🔭 I’m currently working at **Ivcs**
+
+- 🌱 I’m currently learning **python, linux API and network programming**
+
+- My latest project [HotelTravel](https://github.com/Bonartze/HotelTravel)
+
+- 📫 How to reach me **@ikirilin (Telegram), iokirilin@mail.ru, bonartze@gmail.com**
+
+- 📄 Know about my experiences [....](....)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/ivan-kirilin-80a234321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ivan-kirilin-80a234321" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/bonart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bonart/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonartze&show_icons=true&locale=en&layout=compact" alt="bonartze" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonartze&show_icons=true&locale=en" alt="bonartze" /></p>
