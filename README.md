@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonartze&label=Profile%20views&color=0e75b6&style=flat" alt="bonartze" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonartze" alt="bonartze" /></a> </p>
-
-- 🔭 I’m currently working at **Ivcs**
+- 🔭 I’m currently working at **IVCS**
 
 - 🌱 I’m currently learning **python, linux API and network programming**
 
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **@ikirilin (Telegram), iokirilin@mail.ru, bonartze@gmail.com**
 
-- 📄 Know about my experiences [....](....)
+- 📄 Know about my experiences [https://github.com/Bonartze/CV](https://github.com/Bonartze/CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonartze&show_icons=true&locale=en&layout=compact" alt="bonartze" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonartze&show_icons=true&locale=en" alt="bonartze" /></p>
+
