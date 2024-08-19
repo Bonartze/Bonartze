@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **IVCS**
 
-- 🌱 I’m currently learning **python, linux API and network programming**
+- 🌱 I’m currently learning **Python, Linux API and Network programming**
 
 - My latest project [HotelTravel](https://github.com/Bonartze/HotelTravel)
 
