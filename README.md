@@ -2,9 +2,7 @@
 <h3 align="center">Passionate C++ Developer | Specializing in Backend Systems & Algorithm Optimization</h3>
 
 - 🔭 I’m currently working at **IVCS**
-
-- 🌱 I’m currently learning **Python, Linux API and Network programming**
-
+  
 - My latest project [HotelTravel](https://github.com/Bonartze/HotelTravel)
 
 - 📫 How to reach me **@ikirilin (Telegram), iokirilin@mail.ru, bonartze@gmail.com**
