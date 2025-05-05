@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Ivan</h1>
 <h3 align="center">Passionate C++ Developer | Specializing in Backend Systems & Algorithm Optimization</h3>
 
-- 🔭 I’m currently working at **IVCS**
+- 🔭 I’m currently working at **Sberbank**
   
 - My latest project [HotelTravel](https://github.com/Bonartze/HotelTravel)
 
