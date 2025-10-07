@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Ivan</h1>
 <h3 align="center">Passionate C++ Developer | Specializing in Backend Systems & Algorithm Optimization</h3>
 
-- 🔭 I’m currently studying at **University of Bonn** for Master of Science in Computer Science​
+- 🔭 I’m currently studying at the **University of Bonn** for Master of Science in Computer Science​
   
 - Here you can see my projects and CV.
 
