@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I am Ivan</h1>
 <h3 align="center">Passionate C++ Developer | Specializing in Backend Systems & Algorithm Optimization</h3>
 
-- 🔭 I’m currently working at **Sberbank**
+- 🔭 I’m currently studying at **University of Bonn** for Master of Science in Computer Science​
   
-- My latest project [HotelTravel](https://github.com/Bonartze/HotelTravel)
+- Here you can see my projects and CV.
 
 - 📫 How to reach me **@ikirilin (Telegram), iokirilin@mail.ru, bonartze@gmail.com**
 
