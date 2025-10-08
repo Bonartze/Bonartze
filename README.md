@@ -3,7 +3,9 @@
 
 <p align="center">
 🎓 M.Sc. Computer Science @ University of Bonn  
+  
 💡 Building correct, observable, and performant backend systems  
+
 🚀 Interested in high-load architectures, database internals, and cloud infrastructure  
 </p>
 
@@ -23,7 +25,6 @@
 
 I’m a **C/C++ backend engineer** passionate about understanding how systems behave — across the OS, database, and network layers — and turning that insight into clean, reliable code.  
 Most of my work is close to **PostgreSQL internals**, **Greenplum/Cloudberry extensions**, and **performance optimization**.  
-Currently expanding into **Go**, **cloud platforms**, and **modern backend architecture**.
 
 ---
 
