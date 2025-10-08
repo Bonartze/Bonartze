@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying at the **University of Bonn** for Master of Science in Computer Science​
   
-- Here you can see my projects and CV.
+- Here you can find my projects and CV.
 
-- 📫 How to reach me **@ikirilin (Telegram), iokirilin@mail.ru, bonartze@gmail.com**
+- 📫 How to reach me **@ikirilin (Telegram), iokirilin@mail.ru, bonartze@gmail.com, my phone number: +491759937345 (for WhatsApp, etc.)**
 
 - 📄 Know about my experiences [https://github.com/Bonartze/CV](https://github.com/Bonartze/CV)
 
