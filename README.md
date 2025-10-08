@@ -32,9 +32,6 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer" title="C++ / STL">
     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++ stl" width="40" height="40"/>
   </a>
-  <a href="https://www.boost.org/" target="_blank" rel="noreferrer" title="Boost C++ Libraries">
-    <img src="https://www.vectorlogo.zone/logos/boost/boost-icon.svg" alt="boost" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -43,9 +40,6 @@
   </a>
   <a href="https://greenplum.org/" target="_blank" rel="noreferrer" title="Greenplum">
     <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" alt="greenplum" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/cloudberrydb/cloudberrydb" target="_blank" rel="noreferrer" title="CloudberryDB">
-    <img src="https://raw.githubusercontent.com/cloudberrydb/cloudberrydb/main/docs/images/cbdb-logo.svg" alt="cloudberrydb" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
