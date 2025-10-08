@@ -30,19 +30,19 @@ Currently expanding into **Go**, **cloud platforms**, and **modern backend archi
 ### ⚙️ Tech Stack
 
 #### 🧩 Languages
-C++17 · C · Go · Python · SQL · Bash  
+C++17 · C · Python · SQL · Bash  
 
 #### 🧠 Frameworks & Libraries
-STL · Boost · gtest · libpq · gRPC · Protobuf · OpenTelemetry · Prometheus client  
+STL · Boost · gtest · libpq  
 
 #### 🗃️ Databases & Data Systems
-PostgreSQL · Greenplum · CloudberryDB · Redis · Kafka · ClickHouse · MinIO/S3  
+PostgreSQL · Greenplum · CloudberryDB · S3  
 
 #### ☁️ Infrastructure & DevOps
-Linux · Docker · Kubernetes · Terraform · GitLab CI/CD · AWS (EKS, RDS, ECR)  
+Linux · Docker · GitLab CI/CD · Jenkins pipelines  
 
 #### 🔍 Debugging & Performance
-perf · GDB · Valgrind · eBPF · AddressSanitizer · ThreadSanitizer · libFuzzer  
+GDB · Valgrind  
 
 ---
 
@@ -52,22 +52,15 @@ perf · GDB · Valgrind · eBPF · AddressSanitizer · ThreadSanitizer · libFuz
   <!-- Core -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" alt="Greenplum" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/cloudberrydb/cloudberrydb/main/docs/images/cbdb-logo.svg" alt="CloudberryDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/clickhouse/clickhouse-icon.svg" alt="ClickHouse" width="40" height="40"/>
   <!-- Infra -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
   <!-- Tooling -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/boost/boost-icon.svg" alt="Boost" width="40" height="40"/>
@@ -77,8 +70,8 @@ perf · GDB · Valgrind · eBPF · AddressSanitizer · ThreadSanitizer · libFuz
 ---
 
 ### 🧩 Featured Projects
-- 🗄️ **Diskquota port for Greenplum 7** — migrated low-level resource management across major architectural changes  
-- ☁️ **AsteriaTSDB** — custom time-series storage engine (C++/Go/Kafka/ClickHouse/S3)  
+- 🗄️ **TradingPlatform (TradingBot)** — a system designed to automate multiple trading strategies by integrating real-time data collection, fast strategy execution, and comprehensive analytics
+- ☁️ **HotelTravel** — a comprehensive travel companion app that allows users to explore hotel options, calculate distances, and find local attractions all within a single platform.  
 - 🧭 **TransportCatalogue** — route visualization and geographic data processing in C++  
 
 ---
