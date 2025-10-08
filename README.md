@@ -2,6 +2,7 @@
 <h3 align="center">C++ Backend Engineer · Linux · Databases · Performance</h3>
 
 <p align="center">
+
 🎓 M.Sc. Computer Science @ University of Bonn  
   
 💡 Building correct, observable, and performant backend systems  
