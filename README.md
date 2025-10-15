@@ -59,13 +59,11 @@ GDB · Valgrind
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" alt="Greenplum" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/cloudberrydb/cloudberrydb/main/docs/images/cbdb-logo.svg" alt="CloudberryDB" width="40" height="40"/>
   <!-- Infra -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <!-- Tooling -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/boost/boost-icon.svg" alt="Boost" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="STL" width="40" height="40"/>
 </p>
 
