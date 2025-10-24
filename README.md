@@ -64,7 +64,6 @@ GDB · Valgrind
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <!-- Tooling -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="STL" width="40" height="40"/>
 </p>
 
 ---
