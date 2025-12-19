@@ -48,7 +48,7 @@ GDB · Valgrind
 
 ---
 
-### 🧱 Languages & Tools (Visual)
+### 🧱 Languages & Tools
 
 <p align="left">
   <!-- Core -->
