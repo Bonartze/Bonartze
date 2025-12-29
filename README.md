@@ -18,7 +18,6 @@
 - 💬 **Telegram:** [@ikirilin](https://t.me/ikirilin)  
 - 💼 **LinkedIn:** [Ivan Kirilin](https://www.linkedin.com/in/ivan-kirilin-80a234321)  
 - 🧩 **LeetCode:** [bonart](https://leetcode.com/u/bonart/)  
-- 📄 **CV & Projects:** [github.com/Bonartze/CV](https://github.com/Bonartze/CV)
 
 ---
 
