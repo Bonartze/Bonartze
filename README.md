@@ -2,9 +2,9 @@
 <h3 align="center">C++ Backend Engineer · Linux · Databases · Performance</h3>
 
 <p align="center">
-  🎓 M.Sc. Computer Science @ University of Bonn  
-  💡 Building correct, observable, and performant backend systems  
-  🚀 Interested in high-load architectures, database internals, and cloud infrastructure  
+  🎓 M.Sc. Computer Science @ University of Bonn<br>
+  💡 Building correct, observable, and performant backend systems<br>
+  🚀 Interested in high-load architectures, database internals, and cloud infrastructure
 </p>
 
 ---
@@ -46,14 +46,54 @@ GDB · Valgrind
 
 ### 🧱 Languages & Tools
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" alt="Greenplum" width="80" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></p>
+<table>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+      <br>C++
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+      <br>C
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      <br>Python
+    </td>
+    <td align="center" width="70">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+      <br>Bash
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" alt="Greenplum" width="80" height="40"/>
+      <br>Greenplum
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+      <br>Linux
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+      <br>Docker
+    </td>
+    <td align="center" width="70">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧩 Featured Projects
+
 - 🗄️ **TradingPlatform (TradingBot)** — a system designed to automate multiple trading strategies by integrating real-time data collection, fast strategy execution, and comprehensive analytics
-- ☁️ **HotelTravel** — a comprehensive travel companion app that allows users to explore hotel options, calculate distances, and find local attractions all within a single platform.  
-- 🧭 **TransportCatalogue** — route visualization and geographic data processing in C++  
+- ☁️ **HotelTravel** — a comprehensive travel companion app that allows users to explore hotel options, calculate distances, and find local attractions all within a single platform
+- 🧭 **TransportCatalogue** — route visualization and geographic data processing in C++
 
 ---
 
