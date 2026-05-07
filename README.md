@@ -60,10 +60,6 @@ GDB · Valgrind
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
       <br>Python
     </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-      <br>Bash
-    </td>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
       <br>PostgreSQL
